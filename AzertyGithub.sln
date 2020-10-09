@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzertyGithub", "AzertyGithub\AzertyGithub.csproj", "{88CF22A5-2A8D-466C-9904-DF693B4783AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzertyMetier", "AzertyMetier\AzertyMetier.csproj", "{779D763A-2A44-4CC8-89D2-2252418FC53F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CF22A5-2A8D-466C-9904-DF693B4783AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CF22A5-2A8D-466C-9904-DF693B4783AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CF22A5-2A8D-466C-9904-DF693B4783AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CF22A5-2A8D-466C-9904-DF693B4783AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779D763A-2A44-4CC8-89D2-2252418FC53F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779D763A-2A44-4CC8-89D2-2252418FC53F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779D763A-2A44-4CC8-89D2-2252418FC53F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779D763A-2A44-4CC8-89D2-2252418FC53F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8409C4F1-922B-45A8-8BC8-5E803F955DFB}
+	EndGlobalSection
+EndGlobal
